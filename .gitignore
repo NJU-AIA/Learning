@@ -1,0 +1,12 @@
+**.*pt
+**.*pth
+**.*ckpt
+**.*npz
+# Ignore all .pt and .pth files in any directory
+**.*gif
+**.*pdf
+**.*zip
+.idea/
+assets/
+#忽略所有子目录中__pycache__目录
+**/__pycache__/
